@@ -18,7 +18,7 @@ pip install google-auth
 ```
 ## Quick Start
 - git clone https://github.com/rajhazarika85/codingchallenge.git
-- Open Jupyter Notebook and run all cells in sequence
+- Open 'Emil Group Coding Challenge.ipynb' in Jupyter Notebook and run all cells in sequence
 - (Create Google BigQuery dataset)[https://cloud.google.com/bigquery/docs/datasets]
 - (Create a service account in GCP)[https://cloud.google.com/iam/docs/creating-managing-service-accounts] with access to the Google BigQuery dataset or ask for permission to the dataset. Download the key into JSON file and save it in the root folder. The code example to use the JSON file with key is shown below
 
