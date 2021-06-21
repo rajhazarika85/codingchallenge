@@ -1,6 +1,6 @@
 # Coding Challenge
 
-This code challenge demonstrates ETL of data using Python in Jupyter Notebook to Google BigQuery.
+This code challenge demonstrates ETL of data using Python in Jupyter Notebook to Google BigQuery and visualization in Google Data Studio.
 
 ## Description
 The objective of the code challenge is to perform Extraction Transformation and Load ([ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load)) on dataset from source: [https://archive.ics.uci.edu/ml/datasets/Online+Retail](https://archive.ics.uci.edu/ml/datasets/Online+Retail). Python is used for ETL and dataset is uploaded to [Google BigQuery](https://cloud.google.com/bigquery/?utm_source=google&utm_medium=cpc&utm_campaign=japac-IN-all-en-dr-bkwsrmkt-all-all-trial-e-dr-1009882&utm_content=text-ad-none-none-DEV_c-CRE_442449534209-ADGP_Hybrid%20%7C%20BKWS%20-%20EXA%20%7C%20Txt%20~%20Data%20Analytics%20~%20BigQuery_bigquery-KWID_43700054974618275-aud-970366092687%3Akwd-47616965283&userloc_1006644-network_g&utm_term=KW_bigquery&gclid=CjwKCAjw8cCGBhB6EiwAgOReyxv1rKCi5aYzpZg84omfQ_My9ApKFO2L_u9h2Am6fuoM0AObg_nuWRoC3-sQAvD_BwE&gclsrc=aw.ds) and then visualization is performed using [Google Data Studio](https://datastudio.google.com/overview)
