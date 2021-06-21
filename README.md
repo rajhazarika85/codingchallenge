@@ -53,7 +53,7 @@ The dataset contains sales transaction occurred between 01/12/2010 and 09/12/201
 | Rows| 541909|
 | Columns| 8|
 
-## Data preprocessing and Solution 
+## Data Preprocessing and Solution 
 Following data preprocessing has been done
 - Checking datatypes
 - Checking null values
