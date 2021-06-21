@@ -35,7 +35,7 @@ pip install google-auth
 
 
 ## Dataset
-Dataset can be download here (https://archive.ics.uci.edu/ml/datasets/Online+Retail).
+Dataset can be download [here](https://archive.ics.uci.edu/ml/datasets/Online+Retail).
 The dataset contains sales transaction occurred between 01/12/2010 and 09/12/2011 of a UK based online retail. The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers.
 
 - **InvoiceNo**: Invoice number. Nominal, a 6-digit integral number uniquely assigned to each transaction. If this code starts with letter 'c', it indicates a cancellation.
