@@ -19,7 +19,8 @@ pip install google-auth
 ## Quick Start
 - git clone https://github.com/rajhazarika85/codingchallenge.git
 - Open Jupyter Notebook and run all cells in sequence
-- Create a service account in GCP with access to the Google BigQuery dataset or ask for permission to the dataset. Download the key into JSON file and save it in the root folder. The code example to use the JSON file with key is shown below
+- (Create Google BigQuery dataset)[https://cloud.google.com/bigquery/docs/datasets]
+- (Create a service account in GCP)[https://cloud.google.com/iam/docs/creating-managing-service-accounts] with access to the Google BigQuery dataset or ask for permission to the dataset. Download the key into JSON file and save it in the root folder. The code example to use the JSON file with key is shown below
 
 
 
@@ -34,6 +35,7 @@ pip install google-auth
 
 
 ## Dataset
+Dataset can be download here (https://archive.ics.uci.edu/ml/datasets/Online+Retail).
 The dataset contains sales transaction occurred between 01/12/2010 and 09/12/2011 of a UK based online retail. The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers.
 
 - **InvoiceNo**: Invoice number. Nominal, a 6-digit integral number uniquely assigned to each transaction. If this code starts with letter 'c', it indicates a cancellation.
