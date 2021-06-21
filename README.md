@@ -28,7 +28,7 @@ pip install google-auth
    credentials = service_account.Credentials.from_service_account_file('projectid-credentials.json')
 ```
 
-- Access the dashboards in Google Data Studio or ask for permission to the dashboard. **[Click here to view the dashboard](https://datastudio.google.com/u/0/reporting/e91a02ba-a3f1-4c25-b7b0-5654b95ac7fd/page/SEIQC)** 
+- Access the dashboards in Google Data Studio or ask for permission to the dashboard. **[Click here to view the dashboard](https://datastudio.google.com/reporting/e91a02ba-a3f1-4c25-b7b0-5654b95ac7fd)** 
 
 
 
